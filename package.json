@@ -15,7 +15,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "homepage":"https://myusername.github.io/voicing-inventory)"
+    "homepage":"https://shahar-grauman.github.io/voicing-inventory)"
   },
   "eslintConfig": {
     "extends": [
